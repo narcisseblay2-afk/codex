@@ -1,0 +1,1 @@
+{"name":"atelier-travail","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test"},"engines":{"node":">=22"},"dependencies":{"@neondatabase/serverless":"^1.2.0","@vercel/blob":"^2.8.2"}}
